@@ -1,5 +1,5 @@
 {
-  "name": "custom-lodash",
+  "name": "aori-lodash",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/lodash.js",
