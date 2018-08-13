@@ -4,7 +4,7 @@ import minify from 'rollup-plugin-minify-es';
 
 
 export default {
-  input: "node_modules/lodash-es/lodash.default.js",
+  input: "node_modules/lodash-es/lodash.js",
   output: {
     name: "lodash",
     format: "esm",
